@@ -13,8 +13,7 @@ def get_character_movies_from_api(character_name)
     end
   end
 
-    # puts movies
-    # binding.pry
+   
   # collect those film API urls, make a web request to each URL to get the info
   #  for that film
   # return value of this method should be collection of info about each film.
